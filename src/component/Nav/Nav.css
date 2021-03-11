@@ -1,0 +1,20 @@
+.row{
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.logo{
+    padding-left: 20px;
+}
+.nav{
+    padding-top: 10px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: red;
+}

@@ -1,0 +1,9 @@
+#chefs .chef-item .down-content h4 {
+    transition: all .3s;
+    font-size: 20px;
+    font-weight: 700;
+    color: #2a2a2a;
+}\
+.section-chef{
+    margin-top: 50px;
+}
